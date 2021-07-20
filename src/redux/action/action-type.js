@@ -1,0 +1,21 @@
+export const BASEURL = "https://www.breakingbadapi.com";
+
+
+
+
+export const SHOW_ARRAY_REQUEST =  "SHOW_ARRAY_REQUEST";
+export const SHOW_ARRAY_SUCCESS =  "SHOW_ARRAY_SUCCESS";
+export const SHOW_ARRAY_FAILURE =  "SHOW_ARRAY_FAILURE";
+
+
+
+
+export const SEARCH_ARRAY_REQUEST =  "SEARCH_ARRAY_REQUEST";
+export const SEARCH_ARRAY_SUCCESS =  "SEARCH_ARRAY_SUCCESS";
+export const SEARCH_ARRAY_FAILURE =  "SEARCH_ARRAY_FAILURE";
+
+
+
+export const FAV_ARRAY_REQUEST =  "FAV_ARRAY_REQUEST";
+export const FAV_ARRAY_SUCCESS =  "FAV_ARRAY_SUCCESS";
+export const FAV_ARRAY_FAILURE =  "FAV_ARRAY_FAILURE";
