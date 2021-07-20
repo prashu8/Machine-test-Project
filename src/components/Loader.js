@@ -32,7 +32,7 @@ const Loader = (props) => {
                 }}>
                     <ActivityIndicator color="#ccc"
                         size="large" />
-                    <Text style={{ fontSize: 18, fontFamily: 'Roboto-Medium', color: '#ccc' }}>Loading...</Text>
+                    <Text style={{ fontSize: 18, fontFamily: 'Roboto-Light', color: '#ccc' }}>Loading...</Text>
                 </View>
             </View>
         </Modal>
